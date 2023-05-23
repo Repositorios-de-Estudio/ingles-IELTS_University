@@ -33,8 +33,13 @@ The keys are That is Content, Organisation, and Language.
 
 ## Developing an essay
 
-1. The title invites you to ask yourself
-2. 
+1. Structure: Introduction, body, conclusion.
+2. (main idea, support text) Giving examples to support your points.
+3. A link to the previous paragraph.
+4. The question should be answered precisely.
+5. Written a longer conclusion.
+6. First sentence should Connect to the previous paragraph and Summarise the topic of the paragraph.
+7. Accurate grammar is important for easy reading and undertand 
 
 
 
