@@ -43,6 +43,12 @@ The keys are That is Content, Organisation, and Language.
 8. Academic writing should be impersonal or objective
    1. Academic writing is not usually personal
    2. Observing the world as an onlooker
+9. Writers often use ‘there is’ or ‘there are’, to present new information to the reader
+10. It's quite common to use a plural noun without "the" to do this
+11. Quantity expressions for groups:
+    1. Large groups: ‘the majority’ and ‘most’, Nearly everyone, many, almost all
+    2. Small groups: ‘a few’ and ‘some’, not many
+
 
 ### Structure
 
