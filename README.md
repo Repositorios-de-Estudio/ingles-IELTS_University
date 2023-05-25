@@ -39,7 +39,24 @@ The keys are That is Content, Organisation, and Language.
 4. The question should be answered precisely.
 5. Written a longer conclusion.
 6. First sentence should Connect to the previous paragraph and Summarise the topic of the paragraph.
-7. Accurate grammar is important for easy reading and undertand 
+7. Accurate grammar is important for easy reading and undertand
+8. Academic writing should be impersonal or objective
+   1. Academic writing is not usually personal
+   2. Observing the world as an onlooker
+
+### Structure
+
+1. Title
+2. Introduction (background)
+3. Introduction (thesis statement)
+   1. What is in the essay: This essay will discuss […]
+   2. (essay outline sentence) Answer to the question in the title: to improve […] to study
+4. Paragraph 1 (paragraph leader)
+5. Paragraph 1 (paragraph body)
+6. Paragraph 2 (paragraph leader)
+7. Paragraph 2 (paragraph body)
+8. Conclusion (summary)
+9. Conclusion (future suggestion: a prediction, recommendation or solution)
 
 
 
