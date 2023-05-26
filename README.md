@@ -44,11 +44,33 @@ The keys are That is Content, Organisation, and Language.
    1. Academic writing is not usually personal
    2. Observing the world as an onlooker
 9. Writers often use ‘there is’ or ‘there are’, to present new information to the reader
-10. It's quite common to use a plural noun without "the" to do this
-11. Quantity expressions for groups:
+10. Present simple is used for permanent situations
+11. Present continuos is used for temporary or changing situations
+12. It's quite common to use a plural noun without "the" to do this
+13. Quantity expressions for groups:
     1. Large groups: ‘the majority’ and ‘most’, Nearly everyone, many, almost all
     2. Small groups: ‘a few’ and ‘some’, not many
-
+14. Clausure
+    1. Simple
+       1. subject + verb + rest
+       2. ej: {Bananas + grow + in hot contries}
+    2. Compound
+       1. subject + verb + , (coma) + linking word + simple clausure
+       2. ej: {This + is + the beginning of a worldwide epidemic} + , + and + {the situation + is + very worrying}
+       3. Linken words:
+           1. but	=> to give contrasting information
+           2. or => to give another possibility
+           3. and	=> to give additional information
+           4. so	=> to show a result
+    3. Complex sentence
+        1. simple clause + subordinator + simple clause
+        2. ej: {Jogging + increases the heart rate} + because + {the heart + is working hard to pump more blood around the body.}
+        3. ej: Whereas + {jogging + increases the heart rate + , + {yoga + improves flexibility and balance}}
+        4. Subordinators:
+           1. although =>	to show something unexpected
+           2. when =>	to show time or sequence
+           3. because =>	to give a reason
+           4. whereas =>	to compare
 
 ### Structure
 
