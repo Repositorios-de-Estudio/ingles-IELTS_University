@@ -43,6 +43,9 @@ The keys are That is Content, Organisation, and Language.
 8. Academic writing should be impersonal or objective
    1. Academic writing is not usually personal
    2. Observing the world as an onlooker
+   3. Ejemplo
+      1. Personal: Diet is also changing. **We are** wealthier than a generation ago
+      2. Impersonal: Diet is also changing. **People are** wealthier than a generation ago
 9. Writers often use ‘there is’ or ‘there are’, to present new information to the reader
 10. Facts: Which are permanent or always true (Present simple)
 11. Activities: Which are repeated or regular. (Present simple)
@@ -74,7 +77,7 @@ The keys are That is Content, Organisation, and Language.
            3. because =>	to give a reason
            4. whereas =>	to compare
 
-### Structure
+## Estructura de un ensayo
 
 1. Title
 2. Introduction (background)
@@ -88,18 +91,45 @@ The keys are That is Content, Organisation, and Language.
 8. Conclusion (summary)
 9. Conclusion (future suggestion: a prediction, recommendation or solution)
 
+## Pasos para crear un ensayo
 
+1. Analyse the title
+   1. Whats is the hidden question?
+2. Collect all the ideas you have
+   1. Aswer the hidden question (3 main ideas)
+3. Draw a diagram to show which ideas and evidence to use
+   1. Use essay structure
+4. Write your plan
+5. Write your first draft
+6. Ask for feedback on your first draft
+7. Write your final draft
+
+## Escrito de ejemplo aca
+
+[example essay Chaihua](ejemplo-Chaohua.md)
 
 ***
 
 # FRASES NUEVAS
 
 * is to think of some ideas - es pensar en algunas ideas
-* bullet points - puntos claves
+
+* It is about halfway between - esta a mitad de camino entre ...
+* stay because of - se quedan por ...
+* Sometimes though - sin embargo
+* Although it is - aunque es ...
+* Instead - en cambio/en lugar de
+* rather than - en lugar de ...
+* , ... and so does not ... - por lo que no ...
+* which means - lo cual singinifica
+* aid - ayudar o ayuda (cosa de ayuda)
+* Nearly everyone  - casi todos
+* as we go along - a medida que avanzamos
+* Don't rush ahead - no te apresures
 
 
 ***
 # REFERENCIAS
 
 1. [Future Learn](https://www.futurelearn.com/)
-
+2. [Analizar las preguntas del titulo](https://www.oxbridgeessays.com/blog/analyse-explain-evaluate-answer-essay-question-words/)
