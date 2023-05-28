@@ -24,23 +24,20 @@
 
 ## 2 Collect all the ideas you have
 
-1. Food allows to identify a region and their culture
-2. Foreign people from Colombia in Bogotá can offer their own culture through food
+1. Foreign people from Colombia in Bogotá can offer their own culture through food
+2. Food allows to identify a region and their culture
 3. People prefer their own flavors on food over another
 
 ## 3 Draw a diagram to show which ideas and evidence to use
 
-1. Food allows to identify a region and their culture
+1. Foreign people from Colombia in Bogotá can offer their own culture through food
+   1. Pueden hacerlo por darse a conocer o por negocio
+2. Food allows to identify a region and their culture
    1. Cada region tiene sus propia comida en base a su cultura
    2. Cada region se puede diferenciar de otra por su comida
-   3. Probando diferentes comidas se puede deducir de que region es
-   4. Cada grupo de personas busca seguir sus costumbres cuando llega a Bogotá
-2. Foreign people from Colombia in Bogotá can offer their own culture through food
-   1. Pueden hacerlo por placer, por darse a conocer o por negocio
+   3. Cada grupo de personas busca seguir sus costumbres cuando llega a Bogotá
 3. People prefer their own flavors on food over another
-   1. People know their cooking techniques and their ingredients according their customs
-   2. Es habitual que las personas prefieran la comida de su lugar de origen
-   3. Según los recursos e ingredientes disponibles de la region van de la mano con su cultura
+   1. Es habitual que las personas prefieran la comida de su lugar de origen
 
 ## 4 Write your plan
 
@@ -50,41 +47,49 @@
 
 #### Background
 
-* Bogota has many kind of food from many regions from Colombia
+Bogota has many kind of food from many regions from Colombia
 
 #### Thesis statement
 
 This essay - main reasons why food is important for foreing people.
 
+***
+
 ### + Paragraph 1 +
 
 #### Paragraph leader
 
-English - official language for majority.
+Foreign people from Colombia in Bogotá can offer their own culture through food
 
 #### Main body
 
-Examples: business, science, arts etc. Do well in English to get a good job.
+Why?: They want to do it, they can do business
+
+***
 
 ### + Paragraph 2 +
 
 #### Paragraph leader
 
-Young children better at studying languages than adults.
+Food allows to identify a region and their culture
 
 #### Main body
 
-Children living in different countries - learn 3 or 4 languages, so more young children learn English in kindergartens.
+Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
+
+***
 
 ### + Paragraph 3 +
 
 #### Paragraph leader
 
-Parents care for their children’s future.
+People prefer their own flavors on food over another [falta]
 
 #### Main body
 
 To be successful, need to study hard and learn English early in kindergarten.
+
+***
 
 ### + Conclusion +
 

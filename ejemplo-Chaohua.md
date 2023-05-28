@@ -56,6 +56,8 @@ English - most preferred international language. Used in many fields. Children l
 
 This essay - main reasons for popularity.
 
+***
+
 ### + Paragraph 1 +
 
 #### Paragraph leader
@@ -65,6 +67,8 @@ English - official language for majority.
 #### Main body
 
 Examples: business, science, arts etc. Do well in English to get a good job.
+
+***
 
 ### + Paragraph 2 +
 
@@ -76,6 +80,8 @@ Young children better at studying languages than adults.
 
 Children living in different countries - learn 3 or 4 languages, so more young children learn English in kindergartens.
 
+***
+
 ### + Paragraph 3 +
 
 #### Paragraph leader
@@ -85,6 +91,8 @@ Parents care for their children’s future.
 #### Main body
 
 To be successful, need to study hard and learn English early in kindergarten.
+
+***
 
 ### + Conclusion +
 
