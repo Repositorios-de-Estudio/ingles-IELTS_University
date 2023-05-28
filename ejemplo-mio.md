@@ -46,7 +46,7 @@
 
 ***
 
-### - Introduction
+### + Introduction
 
 #### Background
 
@@ -56,7 +56,7 @@
 
 This essay - main reasons why food is important for foreing people.
 
-### - Paragraph 1
+### + Paragraph 1
 
 #### Paragraph leader
 
@@ -66,7 +66,7 @@ English - official language for majority.
 
 Examples: business, science, arts etc. Do well in English to get a good job.
 
-### - Paragraph 2
+### + Paragraph 2
 
 #### Paragraph leader
 
@@ -76,7 +76,7 @@ Young children better at studying languages than adults.
 
 Children living in different countries - learn 3 or 4 languages, so more young children learn English in kindergartens.
 
-### - Paragraph 3
+### + Paragraph 3
 
 #### Paragraph leader
 
@@ -86,7 +86,7 @@ Parents care for their children’s future.
 
 To be successful, need to study hard and learn English early in kindergarten.
 
-### - Conclusion
+### + Conclusion
 
 #### Summary
 
