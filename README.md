@@ -53,8 +53,16 @@ The keys are That is Content, Organisation, and Language.
 13. Present continuos is used for temporary or changing situations
 14. It's quite common to use a plural noun without "the" to do this
 15. Quantity expressions for groups:
-    1. Large groups: ‘the majority’ and ‘most’, Nearly everyone, many, almost all
-    2. Small groups: ‘a few’ and ‘some’, not many
+    1. Large groups:
+       1. the majority
+       2. most
+       3. Nearly everyone
+       4. many
+       5. almost all
+    2. Small groups:
+       1. a few
+       2. some
+       3. not many
 16. Clausure
     1. Simple
        1. subject + verb + rest

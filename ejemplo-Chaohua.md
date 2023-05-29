@@ -33,14 +33,14 @@
 
 ## 3 Draw a diagram to show which ideas and evidence to use
 
-1. Children lear more languages more quickly than adults
-   1. Children like learning languages
-   2. (new) If a child lives in another country he can learn to speak multiple languages
-2. Parents care about their children and want them to succeed in life
-3. English is the main language internationally
+1. English is the main language internationally
    1. The government wants its citizens to be more international
    2. (new) examples: business, politics, science
       1. (new) more people learn English for their future jobs
+2. Children lear more languages more quickly than adults
+   1. Children like learning languages
+   2. (new) If a child lives in another country he can learn to speak multiple languages
+3. Parents care about their children and want them to succeed in life
 
 ## 4 Write your plan
 
@@ -107,6 +107,16 @@ More people study English.
 ***
 
 ## 5 Write your first draft
+
+The English language is the most preferred international language in the world. It is widely used to all kind of field. In Shanghai in China, most of primary school are begin to teach English and some children start to learn English in the kindergartens. It also have many language schools. The main reason for it popularity are considered below.
+
+Firstly, the majority of country use English as an official language. In international marketing all use English, including business, politics, science, arts and even education. In China, it is important for us to learn English because if you do well in English, you can get a good job far more than non-speaking English.
+
+Secondly, many linguists consider that young children are studying language better than adults. If a young child live in many different countries in childhood, he or she may speak 3 or 4 languages. Therefore, more and more young children start to learn English in kindergartens.
+
+Finally, most parents care for their children’s prospects. Think that their child should just study hard and be good at English to become successful. So in Shanghai in China it is very popular with studying English in kindergartens.
+
+More and more young children learning English far early. English is widely spoken at the moment. Young people good at English better than adult. I think there will be more people to study English in future.
 
 ## 6 Ask for feedback on your first draft
 

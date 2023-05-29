@@ -87,7 +87,7 @@ People prefer their own food flavors over another
 
 #### Main body
 
-People like their flavors more than others
+Reasons Why People like their flavors more than others
 
 ***
 
@@ -103,6 +103,47 @@ Food in Bogotá is changing and in future may be difficult to identify easily fo
 ***
 
 ## 5 Write your first draft
+
+***
+
+Bogota has many kind of food from many regions from Colombia
+This essay - main reasons why food is important for foreing people.
+
+People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food
+
+### + Paragraph 1 +
+
+Foreign people from Colombia in Bogotá can offer their own culture through food
+
+
+
+Why?: They want to do it, they can do business
+
+***
+
+### + Paragraph 2 +
+
+Food allows to identify a region and their culture
+
+Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
+
+***
+
+### + Paragraph 3 +
+
+People prefer their own food flavors over another
+
+Reasons Why People like their flavors more than others
+
+***
+
+### + Conclusion +
+
+Foreign people can use food as a id
+
+Food in Bogotá is changing and in future may be difficult to identify easily foreign people
+
+***
 
 ## 6 Ask for feedback on your first draft
 
