@@ -36,7 +36,7 @@
    1. Cada region tiene sus propia comida en base a su cultura
    2. Cada region se puede diferenciar de otra por su comida
    3. Cada grupo de personas busca seguir sus costumbres cuando llega a Bogotá
-3. People prefer their own flavors on food over another
+3. People prefer their own food flavors over another
    1. Es habitual que las personas prefieran la comida de su lugar de origen
 
 ## 4 Write your plan
@@ -83,11 +83,11 @@ Why?: To identify themselves, each region has their food, each region is differe
 
 #### Paragraph leader
 
-People prefer their own flavors on food over another [falta]
+People prefer their own food flavors over another
 
 #### Main body
 
-To be successful, need to study hard and learn English early in kindergarten.
+People like their flavors more than others
 
 ***
 
@@ -95,12 +95,11 @@ To be successful, need to study hard and learn English early in kindergarten.
 
 #### Summary
 
-English: widely spoken. Children learn early and good at English.
+Foreign people can use food as a id
 
 #### Prediction
 
-More people study English.
-
+Food in Bogotá is changing and in future may be difficult to identify easily foreign people
 ***
 
 ## 5 Write your first draft
