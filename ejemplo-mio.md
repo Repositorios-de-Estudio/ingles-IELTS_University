@@ -106,18 +106,15 @@ Food in Bogotá is changing and in future may be difficult to identify easily fo
 
 ***
 
-Bogota has many kind of food from many regions from Colombia
-This essay - main reasons why food is important for foreing people.
-
-People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food
+People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food with differents kind of ingredients and flavors, so people can find that food on Bogotá because is 45% of foreign (in 2006). People can find soups, main courses, desserts, drinks and alcoholic drinks, for example here some typical food for ecah region: Antioquia  and eje cafetero - cazsuela de frijoles, Llanos orientales - ternera, Cundinamarca- ajiaco, Tolima y Huila - lechona, and more. Foreign people are when decide to live in Bogota carry with their culture.
 
 ### + Paragraph 1 +
 
 Foreign people from Colombia in Bogotá can offer their own culture through food
 
-
-
 Why?: They want to do it, they can do business
+
+Bogotá is a big city that adopt other cultures because everyone can 
 
 ***
 
