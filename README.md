@@ -36,6 +36,7 @@ The keys are That is Content, Organisation, and Language.
 1. Structure: Introduction, body, conclusion.
 2. (main idea, support text) Giving examples to support your points.
 3. A link to the previous paragraph.
+   1. your ideas are linked together in a logical way, and that other people can follow what you are trying to say.
 4. The question should be answered precisely.
 5. Written a longer conclusion.
 6. First sentence should Connect to the previous paragraph and Summarise the topic of the paragraph.
@@ -46,7 +47,7 @@ The keys are That is Content, Organisation, and Language.
    3. Ejemplo
       1. Personal: Diet is also changing. **We are** wealthier than a generation ago
       2. Impersonal: Diet is also changing. **People are** wealthier than a generation ago
-9. Writers often use ‘there is’ or ‘there are’, to present new information to the reader
+9.  Writers often use ‘there is’ or ‘there are’, to present new information to the reader
 10. Facts: Which are permanent or always true (Present simple)
 11. Activities: Which are repeated or regular. (Present simple)
 12. Present simple is used for permanent situations

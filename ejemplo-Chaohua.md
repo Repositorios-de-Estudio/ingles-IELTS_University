@@ -120,4 +120,38 @@ More and more young children learning English far early. English is widely spoke
 
 ## 6 Ask for feedback on your first draft
 
+### Write the title here
+
+Where is title?
+
+## Introduction
+
+1. Is there some general background to the title being answered? Yes/no.
+2. Is there a thesis statement which says what the purpose of the essay is? Yes/no.
+
+### 1st paragraph
+
+3. Is there a paragraph leader for this paragraph? Yes/no
+4. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+
+### 2nd paragraph
+
+5. Is there a paragraph leader to this paragraph? Yes/no
+6. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+
+### 3rd paragraph
+
+7. Is there a paragraph leader to this paragraph? Yes/no
+8. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+
+###  Conclusion
+
+9. Does the conclusion sum up the body paragraphs? Yes/no
+10. Does it end with a prediction or some advice for the future? Yes/no
+
+
+### Summary
+
+What suggestions do you have for improving this essay?
+
 ## 7 Write your final draft
