@@ -24,13 +24,13 @@
 
 ## 2 Collect all the ideas you have
 
-1. Foreign people from Colombia in Bogotá can offer their own culture through food
+1. foreign people from Colombia in Bogotá can offer their own culture through food
 2. Food allows to identify a region and their culture
 3. People prefer their own flavors on food over another
 
 ## 3 Draw a diagram to show which ideas and evidence to use
 
-1. Foreign people from Colombia in Bogotá can offer their own culture through food
+1. foreign people from Colombia in Bogotá can offer their own culture through food
    1. Pueden hacerlo por darse a conocer o por negocio
 2. Food allows to identify a region and their culture
    1. Cada region tiene sus propia comida en base a su cultura
@@ -45,100 +45,59 @@
 
 ### + Introduction +
 
-#### Background
+#### Background: Bogota has many kind of food from many regions from Colombia
 
-Bogota has many kind of food from many regions from Colombia
-
-#### Thesis statement
-
-This essay - main reasons why food is important for foreing people.
+#### Thesis statement: This essay - main reasons why food is important for foreing people.
 
 ***
 
 ### + Paragraph 1 +
 
-#### Paragraph leader
+#### Paragraph leader: foreign people from Colombia in Bogotá can offer their own culture through food
 
-Foreign people from Colombia in Bogotá can offer their own culture through food
-
-#### Main body
-
-Why?: They want to do it, they can do business
+#### Main body: Why?: They want to do it, they can do business
 
 ***
 
 ### + Paragraph 2 +
 
-#### Paragraph leader
+#### Paragraph leader: Food allows to identify a region and their culture
 
-Food allows to identify a region and their culture
-
-#### Main body
-
-Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
+#### Main body: Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
 
 ***
 
 ### + Paragraph 3 +
 
-#### Paragraph leader
+#### Paragraph leader: People prefer their own food flavors over another
 
-People prefer their own food flavors over another
-
-#### Main body
-
-Reasons Why People like their flavors more than others
+#### Main body: Reasons Why People like their flavors more than others
 
 ***
 
 ### + Conclusion +
 
-#### Summary
+#### Summary: foreign people can use food as a id
 
-Foreign people can use food as a id
+#### Prediction: Food in Bogotá is changing and in future may be difficult to identify easily foreign people
 
-#### Prediction
-
-Food in Bogotá is changing and in future may be difficult to identify easily foreign people
 ***
 
 ## 5 Write your first draft
 
 ***
 
-People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food with differents kind of ingredients and flavors, so people can find that food on Bogotá because is 45% of foreign (in 2006). People can find soups, main courses, desserts, drinks and alcoholic drinks, for example here some typical food for ecah region: Antioquia  and eje cafetero - cazsuela de frijoles, Llanos orientales - ternera, Cundinamarca- ajiaco, Tolima y Huila - lechona, and more. Foreign people are when decide to live in Bogota carry with their culture.
+**Discuss the reasons why food is important for foreign people from Colombia in Bogotá**
 
-### + Paragraph 1 +
+People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food with differents kind of ingredients and flavors, so people can find that food on Bogotá because is 45% of foreign (in 2006). People can find soups, main courses, desserts, drinks and alcoholic drinks, for example here some typical food for ecah region: Antioquia  and eje cafetero - cazsuela de frijoles, Llanos orientales - ternera, Cundinamarca- ajiaco, Tolima y Huila - lechona, and more. foreign people are when decide to live in Bogota carry with their culture.
 
-Foreign people from Colombia in Bogotá can offer their own culture through food
+It is common in Bogotá to find restaraunts or activities from other regions of Colombia. foreign people from Colombia in Bogotá can offer their own culture through food or activities, these are a good option, because earn money, so for most of foreign people are important this, because is their support. Bogotá is a big city that adopts other cultures, so this is a good way when foreign people arrive to bogota without support and money.
 
-Why?: They want to do it, they can do business
+Food allows to identify a region and their culture this way foreing people can dentify themselves. Each region has their food, and is different by their food, these are important to keep their culture and customs, when they come to Bogota can practice their culture and prepare their food.
 
-Bogotá is a big city that adopt other cultures because everyone can 
+Finally, people prefer their own food flavors over another, becasuse like their flavors more than others, and prefer their culture and customs, this is important, so each new generation of foreign people are keeping a bit of their culture.
 
-***
-
-### + Paragraph 2 +
-
-Food allows to identify a region and their culture
-
-Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
-
-***
-
-### + Paragraph 3 +
-
-People prefer their own food flavors over another
-
-Reasons Why People like their flavors more than others
-
-***
-
-### + Conclusion +
-
-Foreign people can use food as a id
-
-Food in Bogotá is changing and in future may be difficult to identify easily foreign people
+There are many reasons why food is important to foreign people, here are only a few. Each new generation are changing their culture to mix with another cultures, but cycle is repeating when other people foreign arrive to Bogotá. Probably this three reasons no changing for a long time.
 
 ***
 
