@@ -120,38 +120,74 @@ More and more young children learning English far early. English is widely spoke
 
 ## 6 Ask for feedback on your first draft
 
+***
+
 ### Write the title here
 
 Where is title?
 
+### Sugestion
+
+Discuss the reasons why increasing numbers of young children are learning English early in China.
+
 ## Introduction
 
-1. Is there some general background to the title being answered? Yes/no.
-2. Is there a thesis statement which says what the purpose of the essay is? Yes/no.
+1. Is there some general background to the title being answered? 
+   * Yes – some; English is popular in the world, and is taught in primary schools and kindergarten in Shanghai.
+2. Is there a thesis statement which says what the purpose of the essay is?
+   * Yes - ‘The main reasons for its popularity are considered below’. However, the thesis statement doesn’t relate to the essay title, which is about the reasons why young children are learning English.
+
+### Sugestion
+
+Chaohua needs to expand her introduction and bring more background information about young learners and China into it rather than just Shanghai. After all, her essay title asks her to discuss the situation with teaching young learners in China.
 
 ### 1st paragraph
 
-3. Is there a paragraph leader for this paragraph? Yes/no
-4. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+1. Is there a paragraph leader for this paragraph?
+   * Yes - ‘The majority of official languages are English’. However, this is different from the plan, which refers to English as the main international language. This is more accurate than describing it as an ‘official language’ in most countries.
+2. Are the ideas in this paragraph supported with evidence from background knowledge?
+   * Yes – business, politics, education etc., all use English, so to get a good job people need English.
+
+### Sugestion
+
+None
 
 ### 2nd paragraph
 
-5. Is there a paragraph leader to this paragraph? Yes/no
-6. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+1. Is there a paragraph leader to this paragraph?
+   * Yes - linguists know that children learn languages more quickly than adults
+2. Are the ideas in this paragraph supported with evidence from background knowledge?
+   * Yes - some. Chaohua gives the example that children can learn 3 or 4 languages but she does not prove that children learn languages more quickly than adults.
+
+### Sugestion
+
+Chaohua needs to prove her belief that children learn languages more quickly than adults by giving some facts about this.
 
 ### 3rd paragraph
 
-7. Is there a paragraph leader to this paragraph? Yes/no
-8. Are the ideas in this paragraph supported with evidence from background knowledge? Yes/no
+1. Is there a paragraph leader to this paragraph?
+   * Yes - parents care about their children and want them to be successful at school.
+2. Are the ideas in this paragraph supported with evidence from background knowledge?
+   * Yes - some. Chaohua writes that parents want their children to learn English because with good English they will be successful.
+
+### Sugestion
+
+Chaohua has given some evidence that adults care for their children - because they want them to be successful. However, she needs to add more examples or facts about this.
 
 ###  Conclusion
 
-9. Does the conclusion sum up the body paragraphs? Yes/no
-10. Does it end with a prediction or some advice for the future? Yes/no
+1. Does the conclusion sum up the body paragraphs?
+   *  Chaohua sums up with the idea that learning English is popular with children because English is spoken widely and children learn quickly.(Paragraphs 1 and 2). She has not summed up paragraph 3.
+2.  Does it end with a prediction or some advice for the future?
+     * It ends with a prediction.
 
+### Sugestion
 
-### Summary
+Chaohua needs to improve her summing up.
 
-What suggestions do you have for improving this essay?
+On the whole, Chaohua has organised her essay well into sections which make her ideas fairly easy to understand. However, she needs to write more words! Her essay is too short at 231 words. She needs to develop her ideas, and include more facts and examples as evidence in order to persuade her readers that her beliefs are correct.
+
+***
 
 ## 7 Write your final draft
+

@@ -47,7 +47,7 @@ The keys are That is Content, Organisation, and Language.
    3. Ejemplo
       1. Personal: Diet is also changing. **We are** wealthier than a generation ago
       2. Impersonal: Diet is also changing. **People are** wealthier than a generation ago
-9.  Writers often use ‘there is’ or ‘there are’, to present new information to the reader
+9. Writers often use ‘there is’ or ‘there are’, to present new information to the reader
 10. Facts: Which are permanent or always true (Present simple)
 11. Activities: Which are repeated or regular. (Present simple)
 12. Present simple is used for permanent situations
