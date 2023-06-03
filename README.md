@@ -117,6 +117,16 @@ The keys are That is Content, Organisation, and Language.
 
 [example essay Chaihua](ejemplo-Chaohua.md)
 
+## REVISAR Y DAR FEEDBACK
+
+You’re going to be asked to give feedback on the following aspects of the author’s assignment:
+
+1. Does the introduction include some general background to the title? Is there a thesis statement?
+2. Is the topic focus of each paragraph clear? Are the ideas in each paragraph supported with details and examples?
+3. Does the conclusion sum up the main ideas of the essay? Is there a suggestion for the future (a recommendation or prediction or solution)?
+
+
+
 ***
 
 # FRASES NUEVAS
@@ -135,6 +145,8 @@ The keys are That is Content, Organisation, and Language.
 * Nearly everyone  - casi todos
 * as we go along - a medida que avanzamos
 * Don't rush ahead - no te apresures
+* You are going to be asked to give feedback - Se le pedirá que de su feedback
+* due to lack of - falta de ...
 
 
 ***
