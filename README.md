@@ -134,7 +134,6 @@ You’re going to be asked to give feedback on the following aspects of the auth
 # FRASES NUEVAS
 
 * is to think of some ideas - es pensar en algunas ideas
-
 * It is about halfway between - esta a mitad de camino entre ...
 * stay because of - se quedan por ...
 * Sometimes though - sin embargo

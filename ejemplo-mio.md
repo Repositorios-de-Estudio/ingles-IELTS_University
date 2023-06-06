@@ -127,3 +127,53 @@ Based on these observations, I would rate your essay a 5 out of 10. With some re
 ***
 
 ## 7 Write your final draft
+
+### IDEAS
+
+Title: **Discuss the reasons why is important Colombian food for internal inmigrants from Colombia in Bogota**
+
+IN: 
+
+Bogota es la ciudad capital de Colombia, cuenta con 51.6M de personas (2022), del cual el 15% esta en la capital. Colombia cuenta con gran variedad de alimentos debido a los diferentes climas: templano, calido, tropico y alta montaña, debido a esto, cada región a desarrollado su propia grastronomia adaptada a su clima y cultura. Esta gran variedad de alimentos se exporta y es un atractivo para otros país, en el primer semestre del año 2022 Colombia exporto USD $1.3000 solo a estados unidos en frutas y verduras.
+
+En este escrito se describirá porque es importante la comida para los inmigrantes desde dos puntos de vista diferentes.
+
+P1:  Es importante para identificarse. Conservar su cultura, les gustan sus propios sabores.
+La cultura es muy importante es el país por lo que se puede inferir de que region es un plato o a que cultura pertenece por su comida. De los ingredientes mas representativos del país se encuentran arroz, maíz, papa, yuca, fríjoles, platano, aguacate.
+carnes como la de vaca, gallina, cerdo, cabra, cuy, pescados y mariscos. 
+Frutas mango,  banano, papaya, guayaba, lulo y maracuyá. 
+Otros panela, 
+
+P2: Es una oportunidad de negocio. Ofrecen los platos tipicos de su region en Bogota.
+
+
+C: Cada vez llegan mas inmigrantes internos a Bogota lo que provoca que no se conserve la grastronomia fiel a la original y se vayan conbinando con la gastronomia de otras regiones provocando que ningun platillo sea autentico. Platos parecidos
+P: La poblacion de inmigrantes internos en bogota paso del  ~32% (2005) ~28% (2018), probablemente siga la tendencia 
+
+*******
+
+Bogota 15% de la población
+Población inmigrantes internos 32,9% (2018), 28,13% (2005)
+Templado, cálido, trópico y frio o alta montaña
+gran variedad de frutas y verduras
+Entre enero y junio de 2022, Colombia exportó 1.300 millones de dólares en verduras y frutas a Estados Unidos
+
+la bandeja paisa (Antioquia), el ajiaco (Bogotá) y el sancocho (en todo el país)
+Sancocho valluno (valloe del cauca),  Sancocho trifásico (todo), Sancocho de pescado (costa)
+Ajiaco santafereño (Cundinamarca, bogota),  Mondongo (cundinamarca y caribe)
+
+arroz, maíz, papa, yuca, fríjoles, platano, aguacate.
+carnes como la de vaca, gallina, cerdo, cabra, cuy, pescados y mariscos. 
+Frutas mango,  banano, papaya, guayaba, lulo y maracuyá. 
+Otros panela, 
+
+## Final Draft
+
+***
+
+**Discuss the reasons why is important Colombian dishes for internal migrants from Colombia in Bogota**
+
+Bogota is the capital of Colombia, it has 51.6 millions habitants, this is 15% of the whole population. Colombia has a great variety of food, mainly represents by fruits and vegetales by geographic advantages, their wheater is temperate, warm, tropical and high mountains. People can find a great variety of fruits and vegetales. Colombia exported $1.3000 millions of fruits and vegetals in the first semester of 2023 only to USA. Also, this great variety is exploited by internal migrants and  most local gastronomy are make dishes by them, so reader can why is important Colombian dishes for internal migrants in this essay.
+
+Internal migrants identify with their own culture and food is a good way to feel at home. Each region has their own culture and food, because each region has their own customs and their own way of preparing dishes, some food are in whole of Country with different preparation, so dishes are diferent. This preparation allow to indentify a person from other region, so when internal migrants are in Bogota, people can know where is internel migrant from. Preparation depends of their region, so people can find similar food in diferentes regions in Bogota, Sancocho Valluno from Valle del cauca,  Sancocho trifásico throughout Colombia or Sancocho de pescado from coast. This dishes are most same ingredients: rice, corn, potato, cassava, beans, plantain and avocado, and most same meats: meats such as beef, chicken, pork and fish, and most same fruits: mango, banana, papaya, guava, lulo and passion fruit, and panela. Most internal migrants take advantage this dishas to ear money.
+
