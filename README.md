@@ -121,9 +121,11 @@ The keys are That is Content, Organisation, and Language.
 
 You’re going to be asked to give feedback on the following aspects of the author’s assignment:
 
-1. Does the introduction include some general background to the title? Is there a thesis statement?
-2. Is the topic focus of each paragraph clear? Are the ideas in each paragraph supported with details and examples?
-3. Does the conclusion sum up the main ideas of the essay? Is there a suggestion for the future (a recommendation or prediction or solution)?
+1. Intro: Does the introduction include some general background to the title?
+2. Intro: Is there a thesis statement?
+3. Is the topic focus of each paragraph clear? Are the ideas in each paragraph supported with details and examples?
+4. Conclusion: Does the conclusion sum up the main ideas of the essay?
+5. Conclusion: Is there a suggestion for the future (a recommendation or prediction or solution)?
 
 
 
