@@ -45,7 +45,7 @@
 
 ### + Introduction +
 
-#### Background: Bogota has many kind of food from many regions from Colombia
+#### Background: Bogotá has many kind of food from many regions from Colombia
 
 #### Thesis statement: This essay - main reasons why food is important for foreing people.
 
@@ -63,7 +63,7 @@
 
 #### Paragraph leader: Food allows to identify a region and their culture
 
-#### Main body: Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogota they can practice their culture
+#### Main body: Why?: To identify themselves, each region has their food, each region is different by their food, their food is like their culture, When come to Bogotá they can practice their culture
 
 ***
 
@@ -89,11 +89,11 @@
 
 **Discuss the reasons why food is important for foreign people from Colombia in Bogotá**
 
-People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food with differents kind of ingredients and flavors, so people can find that food on Bogotá because is 45% of foreign (in 2006). People can find soups, main courses, desserts, drinks and alcoholic drinks, for example here some typical food for ecah region: Antioquia  and eje cafetero - cazsuela de frijoles, Llanos orientales - ternera, Cundinamarca- ajiaco, Tolima y Huila - lechona, and more. foreign people are when decide to live in Bogota carry with their culture.
+People consider important food in Colombia, it is based on their culture and life style. Colombia has many kind of environments, and each region uses their own resourcers, so this identify their food with differents kind of ingredients and flavors, so people can find that food on Bogotá because is 45% of foreign (in 2006). People can find soups, main courses, desserts, drinks and alcoholic drinks, for example here some typical food for ecah region: Antioquia  and eje cafetero - cazsuela de frijoles, Llanos orientales - ternera, Cundinamarca- ajiaco, Tolima y Huila - lechona, and more. foreign people are when decide to live in Bogotá carry with their culture.
 
-It is common in Bogotá to find restaraunts or activities from other regions of Colombia. foreign people from Colombia in Bogotá can offer their own culture through food or activities, these are a good option, because earn money, so for most of foreign people are important this, because is their support. Bogotá is a big city that adopts other cultures, so this is a good way when foreign people arrive to bogota without support and money.
+It is common in Bogotá to find restaraunts or activities from other regions of Colombia. foreign people from Colombia in Bogotá can offer their own culture through food or activities, these are a good option, because earn money, so for most of foreign people are important this, because is their support. Bogotá is a big city that adopts other cultures, so this is a good way when foreign people arrive to Bogotá without support and money.
 
-Food allows to identify a region and their culture this way foreing people can dentify themselves. Each region has their food, and is different by their food, these are important to keep their culture and customs, when they come to Bogota can practice their culture and prepare their food.
+Food allows to identify a region and their culture this way foreing people can dentify themselves. Each region has their food, and is different by their food, these are important to keep their culture and customs, when they come to Bogotá can practice their culture and prepare their food.
 
 Finally, people prefer their own food flavors over another, becasuse like their flavors more than others, and prefer their culture and customs, this is important, so each new generation of foreign people are keeping a bit of their culture.
 
@@ -130,11 +130,11 @@ Based on these observations, I would rate your essay a 5 out of 10. With some re
 
 ### IDEAS
 
-Title: **Discuss the reasons why is important Colombian food for internal inmigrants from Colombia in Bogota**
+Title: **Discuss the reasons why is important Colombian food for internal inmigrants from Colombia in Bogotá**
 
 IN: 
 
-Bogota es la ciudad capital de Colombia, cuenta con 51.6M de personas (2022), del cual el 15% esta en la capital. Colombia cuenta con gran variedad de alimentos debido a los diferentes climas: templano, calido, tropico y alta montaña, debido a esto, cada región a desarrollado su propia grastronomia adaptada a su clima y cultura. Esta gran variedad de alimentos se exporta y es un atractivo para otros país, en el primer semestre del año 2022 Colombia exporto USD $1.3000 solo a estados unidos en frutas y verduras.
+Bogotá es la ciudad capital de Colombia, cuenta con 51.6M de personas (2022), del cual el 15% esta en la capital. Colombia cuenta con gran variedad de alimentos debido a los diferentes climas: templano, calido, tropico y alta montaña, debido a esto, cada región a desarrollado su propia grastronomia adaptada a su clima y cultura. Esta gran variedad de alimentos se exporta y es un atractivo para otros país, en el primer semestre del año 2022 Colombia exporto USD $1.3000 solo a estados unidos en frutas y verduras.
 
 En este escrito se describirá porque es importante la comida para los inmigrantes desde dos puntos de vista diferentes.
 
@@ -144,15 +144,18 @@ carnes como la de vaca, gallina, cerdo, cabra, cuy, pescados y mariscos.
 Frutas mango,  banano, papaya, guayaba, lulo y maracuyá. 
 Otros panela, 
 
-P2: Es una oportunidad de negocio. Ofrecen los platos tipicos de su region en Bogota.
+P2: Es una oportunidad de negocio. Ofrecen los platos tipicos de su region en Bogotá.
+Dulces tipicos: Mazamorra con bocadillo, Natilla, Arroz con leche, leche asada de Antioquia. 
+Bocadillo veleño, Sabajón, masato de Santander.
 
 
-C: Cada vez llegan mas inmigrantes internos a Bogota lo que provoca que no se conserve la grastronomia fiel a la original y se vayan conbinando con la gastronomia de otras regiones provocando que ningun platillo sea autentico. Platos parecidos
-P: La poblacion de inmigrantes internos en bogota paso del  ~32% (2005) ~28% (2018), probablemente siga la tendencia 
+C: Cada vez llegan mas inmigrantes internos a Bogotá lo que provoca que no se conserve la grastronomia fiel a la original y se vayan conbinando con la gastronomia de otras regiones provocando que ningun platillo sea autentico. Platos parecidos
+P: La poblacion de inmigrantes internos en Bogotá paso del  ~32% (2005) ~28% (2018), probablemente siga la tendencia.
+dulces, panaderia, pasteleria
 
 *******
 
-Bogota 15% de la población
+Bogotá 15% de la población
 Población inmigrantes internos 32,9% (2018), 28,13% (2005)
 Templado, cálido, trópico y frio o alta montaña
 gran variedad de frutas y verduras
@@ -160,21 +163,30 @@ Entre enero y junio de 2022, Colombia exportó 1.300 millones de dólares en ver
 
 la bandeja paisa (Antioquia), el ajiaco (Bogotá) y el sancocho (en todo el país)
 Sancocho valluno (valloe del cauca),  Sancocho trifásico (todo), Sancocho de pescado (costa)
-Ajiaco santafereño (Cundinamarca, bogota),  Mondongo (cundinamarca y caribe)
+Ajiaco santafereño (Cundinamarca, Bogotá),  Mondongo (cundinamarca y caribe)
 
 arroz, maíz, papa, yuca, fríjoles, platano, aguacate.
 carnes como la de vaca, gallina, cerdo, cabra, cuy, pescados y mariscos. 
 Frutas mango,  banano, papaya, guayaba, lulo y maracuyá. 
 Otros panela, 
 
+Dulces tipicos: Mazamorra con bocadillo, Natilla, Arroz con leche, leche asada de Antioquia. 
+Bocadillo veleño, Sabajón, masato de Santander.
+Pan de bono de valle del cauca.
+Crema de café del eje cafetero.
+
+Postres, dulces, helados, jugos, behidas alcoholicas y mas.
+
 ## Final Draft
 
 ***
 
-**Discuss the reasons why is important Colombian dishes for internal migrants in Bogota**
+**Discuss the reasons why is important Colombian dishes for internal migrants in Bogotá**
 
-Bogota is the capital of Colombia, it has 51.6 millions habitants, this is 15% of the whole population. Colombia has a great variety of food, mainly represents by fruits and vegetales by geographic advantages, their wheater is temperate, warm, tropical and high mountains. People can find a great variety of fruits and vegetales. Colombia exported $1.3000 millions of fruits and vegetals in the first semester of 2023 only to USA. Also, this great variety is exploited by internal migrants and  most local gastronomy are make dishes by them, so reader can why is important Colombian dishes for internal migrants in this essay.
+Bogotá is the capital of Colombia, it has 51.6 million habitants, which is 15% of the whole population. Colombia has a great variety of food, mainly represented by fruits and vegetables by geographic advantages, their wheater is temperate, warm, tropical and high mountains. People can find a great variety of fruits and vegetables. Colombia exported $1.3000 million of fruits and vegetals in the first semester of 2023 only to the USA. Also, this great variety is exploited by internal migrants and most local gastronomy is made dishes, so reader can why are important Colombian dishes for internal migrants in this essay.
 
-Internal migrants identify with their own culture and food. Each region has their own culture and food, because each region has their own customs and their own way of preparing dishes, some food are in whole of Country with different preparation, so dishes are diferent. This preparation allow to indentify a person from other region and  this is a good way to feel at home, so when internal migrants are in Bogota, people can know where is internel migrant from. Preparation depends of their region, so people can find similar food in diferentes regions in Bogota, Sancocho Valluno from Valle del cauca,  Sancocho trifásico throughout Colombia or Sancocho de pescado from coast. This dishes are most same ingredients: rice, corn, potato, cassava, beans, plantain and avocado, and most same meats: meats such as beef, chicken, pork and fish, and most same fruits: mango, banana, papaya, guava, lulo and passion fruit, and panela. Most internal migrants take advantage this dishas to ear money.
+Internal migrants identify with their own culture and food. Each region has their own culture and food, because each region has their own customs and their own way of preparing dishes, some food is in whole of Country with different preparation, so dishes are different. This preparation allows to identify a person from another region, and this is a good way to feel at home, so when internal migrants are in Bogotá, people can know where is internal migrant from. Preparation depends of their region, so people can find similar food in different regions in Bogotá, Sancocho Valluno from Valle del cauca,  Sancocho trifásico throughout Colombia or Sancocho de pescado from the coast. These dishes are most same ingredients: rice, corn, potato, cassava, beans, plantain and avocado, and most same meats: meats such as beef, chicken, pork and fish, and most same fruits: mango, banana, papaya, guava, lulo and passion fruit, and panela. Most internal migrants take advantage these dishes to earn money.
 
-Also, internal migrants use their grastronomy to sell dishes in Bogota. When a internal migrant arrives to Bogota have to seek how earn cash, most internal migrants arrive to Bogota without cash and support, so they prefer to start a own business such as a restaurant where offer their own dishes. Generally these kind of restaurants  prosper by their dishes and it expand in Bogota, so this way people can find Hormigas Culonas from Region Santander, lechona and tamales from Tolima and Cazuela de mariscos from Coast.
+Also, internal migrants use their gastronomy to sell dishes in Bogotá. When an internal migrant arrives to Bogotá have to seek how to earn money, most internal migrants arrive to Bogotá without cash and support, so they prefer to start their own business such as a restaurant that offer their own dishes. Generally, these kind of restaurants prosper by their dishes and they expand in Bogotá, so this way people can find Hormigas Culonas from the Region of Santander, lechona and tamales from Tolima and Cazuela de mariscos from Coast. Another option is start a bakery or pastry, their bread and candys are desired by people of Bogotá because they like candy, some are Pan de bono from Valle del Cauca, Crema de café from Eje Cafetero, Mazamorra con bocadillo, Natilla, Arroz con leche, leche asada from Antioquia, and Bocadillo veleño, Sabajón, masato from Region of Santander. Some of these are part of culture and customs of Colombian people, natilla and arroz con leche are used by most regions of Colombia at Christmas, panela and bocadillo veleño are used to restore energy. People can find a great variety of dishes from other regions in Bogotá as well as other food such as desserts, sweets, ice creams, juices, alcoholic beverages and more.
+
+Internal migrants want to keep their identity, and some of them prefer to feel like at home by cooking their gastronomy for themselves, others prefer to start a business and earn money. Most people prefer to eat their own dishes and customs, maybe it will be like this forever.
